@@ -3,6 +3,15 @@ import React from 'react'
 const Experience = () => {
   const experiences = [
     {
+      period: "August 2026 - Present",
+      role: "Software developer",
+      company: "Breaze Delivery",
+      event: '',
+      description: "Actively contributing towards building new features for the current system.",
+      technologies: ["JavaScript","TypeScript","React","TailwindCSS","Nodejs","MongoDB", "HTML", "CSS"],
+      current: true
+    },
+    {
       period: "April 2026",
       role: "Backend developer",
       company: "DerivCo",
